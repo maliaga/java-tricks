@@ -1,4 +1,4 @@
-package dev.aliaga.java.trick;
+package dev.aliaga.java.trick.builder;
 
 public class Person {
     private String name;

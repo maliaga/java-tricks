@@ -1,4 +1,4 @@
-package dev.aliaga.java.trick;
+package dev.aliaga.java.trick.builder;
 
 public class Main {
     public static void main(String[] args) {
